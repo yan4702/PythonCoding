@@ -10,4 +10,6 @@
 ![image](https://user-images.githubusercontent.com/59326036/134167411-eb4f9e56-000f-4d02-9218-f666a6255031.png)
 
 
-**OOP_GUI is regarding to the 
+**OOP_GUI is regarding to the phone book application that created using GUI (graphical user interface). The purpose for this GUI is to allows user to add, update and delete the contact person. 
+
+![image](https://user-images.githubusercontent.com/59326036/134167881-336fed28-d60f-463d-ad37-8fe77fe7c3ab.png)
