@@ -1,6 +1,6 @@
 # Python structure and object-oriented programming assignment using ecplise
 
-**OOP_BookingDriver.py is regarding to the driver booking application that created using object-oriented programming.
+**OOP_BookingDriver.py is regarding to the driver booking application that created using object-oriented programming. The function of delete, adding, updating function are using to add, update and delete the driver in booking application.
 
 ![image](https://user-images.githubusercontent.com/59326036/134166232-64823bd4-cd56-47f6-a7ad-938cc8771dc9.png)
 
