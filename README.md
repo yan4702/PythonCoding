@@ -1,1 +1,1 @@
-# SpellingGame_PythonCoding
+# Python structure and object-oriented programming assignment
